@@ -1,4 +1,4 @@
-# My solution to [Advent of Code - Day 6](https://adventofcode.com/2023/day/6/) in Clojure!
+# My solution to [Advent of Code - Day 6](https://adventofcode.com/2023/day/6) in Clojure!
 
 I decided to challenge myself and attempt to write a solution in a programming language I am not accustomed to. 
 
@@ -7,7 +7,7 @@ When I read the problem description, I immediately thought that a functional lan
 Hence, I picked [Clojure (a modern Lisp for the JVM)](https://clojure.org/index). I've gotta say that the fact that the syntax relies excessively on parentheses and on the Polish/prefix notation threw me off at first. Haskell definitely has clearer syntax.
 
 
-Problem description: https://adventofcode.com/2023/day/6/
+Problem description: https://adventofcode.com/2023/day/6
 
 
 ## Solution description
